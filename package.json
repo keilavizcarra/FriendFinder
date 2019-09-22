@@ -1,0 +1,28 @@
+{
+    "name": "friendfinder",
+    "version": "1.0.0",
+    "description": "Node and Express app",
+    "main": "server.js",
+    "scripts": {
+      "test": "",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "keywords": [
+      "feta",
+      "cheese"
+    ],
+    "author": "",
+    "bugs": {
+      "url": ,
+    },
+    "homepage": , 
+    "dependencies": {
+      "body-parser": "^1.18.1",
+      "express": "^4.15.4",
+      "path": "^0.12.7"
+    }
+  }
